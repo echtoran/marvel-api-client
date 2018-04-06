@@ -1,5 +1,5 @@
 {
-    "name": "echtoran/marvel-api-client",
+    "name": "ikoene/marvel-api-client",
     "license": "MIT",
     "type": "library",
     "description": "An API client to handle calls to the Marvel API.",
